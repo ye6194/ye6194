@@ -39,7 +39,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ye6194&count_private=true&hide_rank=true&hide=stars" />&nbsp&nbsp
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ye6194&layout=compact&count_private=true&hide=python" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ye6194&layout=compact&count_private=true&hide=python,batchfile,powershell,c" />
 </div>
 
 <!--
