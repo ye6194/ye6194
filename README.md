@@ -34,10 +34,13 @@
   <img src="https://img.shields.io/badge/discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />&nbsp
 </div>
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ye6194&count_private=true&hide_rank=true&hide=stars) -->
+<br/>
+<br/>
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ye6194&layout=compact&count_private=true&hide=javascript,html,css -->
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ye6194&count_private=true&hide_rank=true&hide=stars" />&nbsp&nbsp
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ye6194&layout=compact&count_private=true&hide=python" />
+</div>
 
 <!--
 **ye6194/ye6194** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
