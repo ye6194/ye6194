@@ -37,12 +37,14 @@
 <br/>
 <br/>
 
-<!--
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ye6194&count_private=true&hide_rank=true&hide=stars" />&nbsp&nbsp
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ye6194&layout=compact&count_private=true&hide=python,batchfile,powershell,c" />
+  <!--
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ye6194&layout=compact&&count_private=true&hide=batchfile,powershell,c&show_icons=true" />
+  -->
 </div>
--->
+
 
 <!--
 **ye6194/ye6194** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
